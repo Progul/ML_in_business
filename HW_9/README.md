@@ -27,7 +27,7 @@ API: flask
 ### Клонируем репозиторий и создаем образ
 ```
 $ git clone https://github.com/Progul/GB_data_science_in_bussines/tree/main/HW_9
-$ cd Machine_/DS_Lib_for_Bussines/HW/HW_9
+$ cd Machine_/ML_in_Bussines/HW_9
 $ docker build -t rush/gb_docker_price_predictions .
 ```
 
